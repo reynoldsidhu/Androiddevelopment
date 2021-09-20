@@ -12,6 +12,7 @@
 
         android:layout_marginStart="16dp"
         android:text="Hello, Reynold sidhu here! Student id A00112144, Subject- Mobile application development"
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintLeft_toLeftOf="parent"
